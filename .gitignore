@@ -86,8 +86,6 @@ Icon?
 ehthumbs.db
 [Tt]humbs.db
 [Dd]esktop.ini
-Corridor/Library/ShaderCache/
-Corridor/Library/metadata/
 
 # Crashlytics generated file
 crashlytics-build.properties
@@ -95,3 +93,6 @@ crashlytics-build.properties
 *.xml
 *.iml
 *.info
+*.db
+*.log
+Caventure/Temp/UnityLockfile
