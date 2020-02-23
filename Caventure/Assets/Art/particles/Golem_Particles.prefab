@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 571323035710860604}
   - component: {fileID: 571323035710860605}
   m_Layer: 0
-  m_Name: Particle System
+  m_Name: Golem_Particles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25,7 +25,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 571323035710860606}
-  m_LocalRotation: {x: 0.0047178864, y: -0.999528, z: -0.030355634, w: 0.00014327961}
+  m_LocalRotation: {x: 0.0047188993, y: -0.99952805, z: -0.030356517, w: 0.00014419042}
   m_LocalPosition: {x: -0.051, y: 1.481, z: -8.491}
   m_LocalScale: {x: 1.4848, y: 1.4848, z: 1.4848}
   m_Children: []
